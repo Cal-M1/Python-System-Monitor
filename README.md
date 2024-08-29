@@ -7,8 +7,8 @@
 
 
 <div align="center">  
-  <img src="![BqYVhkRzGC](https://github.com/user-attachments/assets/9248e7b0-d595-4345-afcf-63960de92e33)" alt="project-screenshot"> 
-  <img src="![6OVCKrQvt5](https://github.com/user-attachments/assets/58b6b6c3-368e-4918-b49f-ebb89ff3d226)" alt="project-screenshot">
+  <img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot"> 
+  <img src="https://i.imgur.com/FODs3z8.png" alt="project-screenshot">
 </div>
 
 
