@@ -3,11 +3,10 @@
 <p id="description">A Simple Python-based GUI application that monitors system information including CPU usage memory usage and disk space.</p>
 
 <h2>Project Screenshots:</h2>
-
-<img src="https://i.imgur.com/FODs3z8.png" alt="project-screenshot" width="800" height="600/">
-
-<img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="800" height="600/">
-
+<div align="center">
+  <img src="https://i.imgur.com/FODs3z8.png" alt="project-screenshot" width="800" height="600/">  
+  <img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="800" height="600/">
+</div>
   
 <h2>🧐 Features</h2>
 
