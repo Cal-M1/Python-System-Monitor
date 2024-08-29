@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/t2quR2l.png" alt="project-screenshot" width="800" height="600/">
+<img src="https://i.imgur.com/FODs3z8.png" alt="project-screenshot" width="800" height="600/">
 
 <img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="800" height="600/">
 
@@ -37,6 +37,3 @@ pip install -r requirements.txt
 python app.py
 ```
 
-<h2>🛡️ License:</h2>
-
-This project is licensed under the
