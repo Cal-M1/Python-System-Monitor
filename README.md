@@ -10,7 +10,7 @@
   <img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="800" height="600">
 </div>
 
-<h2>Features</h2>
+<h2> Features </h2>
 
 Here are some of the project’s key features:
 
