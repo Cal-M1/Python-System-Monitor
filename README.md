@@ -6,13 +6,13 @@
 <h2 align="center">Project Screenshots:</h2>
 
 <div align="center">  
-  <img src="https://i.imgur.com/FODs3z8.png" alt="project-screenshot" width="800" height="600/"> 
-  <img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="800" height="600/">
+  <img src="https://i.imgur.com/FODs3z8.png" alt="project-screenshot" width="800" height="600"> 
+  <img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="800" height="600">
 </div>
 
 <h2>Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project’s key features:
 
 *   Real-Time CPU and Memory Monitoring
 *   Simple User-friendly GUI Design
@@ -20,7 +20,7 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone The Repoisutiry</p>
+<p>1. Clone The Repository</p>
 
 ```
 https://github.com/Cal-M1/SysMonCTK.git
