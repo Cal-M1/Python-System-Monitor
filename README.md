@@ -1,14 +1,12 @@
 <h1 align="center" id="title">SysMonCTK</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
-
 <p id="description">A Simple Python-based GUI application that monitors system information including CPU usage memory usage and disk space.</p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/t2quR2l.png" alt="project-screenshot" width="1200" height="800/">
+<img src="https://i.imgur.com/t2quR2l.png" alt="project-screenshot" width="800" height="600/">
 
-<img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="1200" height="800/">
+<img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot" width="800" height="600/">
 
   
 <h2>🧐 Features</h2>
