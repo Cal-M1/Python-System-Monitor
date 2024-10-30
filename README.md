@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Python System Monitor</h1>
 
-<p align="center" id="description">SysMonCTK is a simple, lightweight Python-based GUI application that monitors system information including CPU usage, memory usage, and disk space. As well as providing basic system information.</p>
+<p align="center" id="description">Python-based GUI application that monitors system information including CPU usage, memory usage, and disk space. As well as providing basic system information.</p>
 
 <h2 align="center">Project Screenshots:</h2>
 
