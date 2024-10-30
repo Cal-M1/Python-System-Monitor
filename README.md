@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img src="https://i.imgur.com/slWkPzP.png" alt="project-screenshot"> 
-  <img src="https://i.imgur.com/FODs3z8.png" alt="project-screenshot">
+  <img src="https://i.imgur.com/hS7g62h.png" alt="project-screenshot"> 
+  <img src="https://i.imgur.com/JDhgwSG.png" alt="project-screenshot">
 </div>
 
 
